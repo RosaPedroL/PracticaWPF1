@@ -45,7 +45,7 @@ namespace ViewModel
                 if (value == _numero2)
                     return;
                 _numero2 = value;
-                RaisePropertyChanged(() => Numero2); //se actualizo 
+                RaisePropertyChanged(() => Numero2); 
             }
 
         }
@@ -57,7 +57,7 @@ namespace ViewModel
                 if (value == _resultado)
                     return;
                 _resultado = value;
-                RaisePropertyChanged(() => Resultado); //se actualizo 
+                RaisePropertyChanged(() => Resultado); 
             }
 
         }

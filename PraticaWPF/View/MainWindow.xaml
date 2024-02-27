@@ -29,17 +29,18 @@
             <RowDefinition Height="*"></RowDefinition>
         </Grid.RowDefinitions>
 
-        <Label Content="Numero 1" Grid.Column="1" Grid.Row="1" HorizontalContentAlignment="Center" FontWeight="Bold" FontSize="20"></Label>
-        <Label Content="Numero 2" Grid.Column="1" Grid.Row="2" HorizontalContentAlignment="Center" FontWeight="Bold" FontSize="20"></Label>
-        <Label Content="Resultado" Grid.Column="1" Grid.Row="3" HorizontalContentAlignment="Center" FontWeight="Bold" FontSize="20"></Label>
-        <Label Content="{Binding Numero1}" Grid.Column="3" Grid.Row="1" HorizontalContentAlignment="Center" FontWeight="Bold" FontSize="20"></Label>
+        <Label Content="Numero 1" Grid.Column="1" Grid.Row="1" HorizontalContentAlignment="Center" VerticalAlignment="Center" FontWeight="Medium" FontSize="20"></Label>
+        <Label Content="Numero 2" Grid.Column="1" Grid.Row="2" HorizontalContentAlignment="Center" VerticalAlignment="Center" FontWeight="Medium" FontSize="20"></Label>
+        <Label Content="Resultado: " Grid.Column="1"  Foreground="#3d6f92" Grid.Row="3" HorizontalContentAlignment="Center" VerticalAlignment="Center" FontWeight="Medium" FontSize="20"></Label>
+        <Label Content="{Binding Numero1,StringFormat='El número es: {0}'}" Grid.Column="3" Grid.Row="1" HorizontalContentAlignment="Center" VerticalAlignment="Center" FontWeight="Light" FontSize="20"></Label>
 
-        <TextBox Text="{Binding Numero1,Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" Grid.Column="2" Grid.Row="1" HorizontalAlignment="Center" VerticalAlignment="Center" FontWeight="Bold" FontSize="20" Width="100"></TextBox>
-        <TextBox Text="{Binding Numero2}" Grid.Column="2" Grid.Row="2" HorizontalAlignment="Center" VerticalAlignment="Center" FontWeight="Bold" FontSize="20" Width="100"></TextBox>
-        <TextBox Text="{Binding Resultado}" Grid.Column="2" Grid.Row="3" HorizontalAlignment="Center" VerticalAlignment="Center" FontWeight="Bold" FontSize="20" Width="100"></TextBox>
-        <Button Content="sumar" Grid.Column="1" Command="{Binding SumarCommand}" Grid.Row="4" Grid.ColumnSpan="2" Margin="20,10,20,10"></Button>
-        <Button Content="restar" Grid.Column="3" Command="{Binding RestaCommand}" Grid.Row="4" Grid.ColumnSpan="2" Margin="20,10,20,10"></Button>
-        <Button Content="multiplicar" Grid.Column="5" Command="{Binding MultiplicarCommand}" Grid.Row="4" Grid.ColumnSpan="2" Margin="20,10,20,10"></Button>
-        <Button Content="division" Grid.Column="4" Command="{Binding DividirCommand}" Grid.Row="2" Grid.ColumnSpan="2" Margin="20,10,20,10"></Button>
+        <TextBox Text="{Binding Numero1,Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" ToolTip="Solo acepta numeros"  Grid.Column="2" Grid.Row="1" HorizontalAlignment="Center" VerticalAlignment="Center" FontWeight="Light" FontSize="20" Width="100"></TextBox>
+        <TextBox Text="{Binding Numero2}" ToolTip="Solo acepta numeros" Grid.Column="2" Grid.Row="2" HorizontalAlignment="Center" VerticalAlignment="Center" FontWeight="Light" FontSize="20" Width="100"></TextBox>
+        <TextBox Text="{Binding Resultado}"  Foreground="DarkBlue" IsEnabled="False" Grid.Column="2" Grid.Row="3" HorizontalAlignment="Center" VerticalAlignment="Center" FontWeight="Medium" FontSize="20" Width="100"></TextBox>
+        <Button Content="SUMAR" FontFamily="Arial" Grid.Column="1" Command="{Binding SumarCommand}" Foreground="White" Background="SlateGray" Grid.Row="4" Grid.ColumnSpan="2" FontSize="15" Margin="20,10,20,10" ></Button>
+        <Button Content="RESTAR" FontFamily="Arial" Grid.Column="3" Command="{Binding RestaCommand}" Foreground="White" Background="SlateGray"  Grid.Row="4" Grid.ColumnSpan="2" Margin="20,10,20,10" FontSize="15"></Button>
+        <Button Content="MULTIPLICAR" FontFamily="Arial" Grid.Column="5" Command="{Binding MultiplicarCommand}" Foreground="White" Background="SlateGray" Grid.Row="4" Grid.ColumnSpan="2" Margin="20,10,20,10"></Button>
+        <Button Content="DIVISIÓN" FontFamily="Arial" Grid.Column="4" Command="{Binding DividirCommand}" Foreground="White" Background="SlateGray" Grid.Row="2" Grid.ColumnSpan="2" Margin="20,10,20,10"></Button>
+        
     </Grid>
 </Window>
