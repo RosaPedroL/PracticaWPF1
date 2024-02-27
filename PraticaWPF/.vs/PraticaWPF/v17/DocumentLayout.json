@@ -1,26 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Rosa Maria\\Downloads\\DOCUMENTO NEW TALENT\\Curso y capacitacion c sharp\\PraticaWPF\\",
+  "WorkspaceRootPath": "C:\\Users\\Rosa Maria\\Downloads\\DOCUMENTO NEW TALENT\\Curso y capacitacion c sharp\\PracticaWPF1\\PraticaWPF\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9655C506-0827-4706-8655-3C45E3D5CE5D}|View\\View.csproj|c:\\users\\rosa maria\\downloads\\documento new talent\\curso y capacitacion c sharp\\praticawpf\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{9655C506-0827-4706-8655-3C45E3D5CE5D}|View\\View.csproj|c:\\users\\rosa maria\\downloads\\documento new talent\\curso y capacitacion c sharp\\practicawpf1\\praticawpf\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{9655C506-0827-4706-8655-3C45E3D5CE5D}|View\\View.csproj|solutionrelative:view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E14AB974-08E9-46A8-B0E9-2B686ADBE7A7}|ViewModel\\ViewModel.csproj|c:\\users\\rosa maria\\downloads\\documento new talent\\curso y capacitacion c sharp\\praticawpf\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E14AB974-08E9-46A8-B0E9-2B686ADBE7A7}|ViewModel\\ViewModel.csproj|solutionrelative:viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E14AB974-08E9-46A8-B0E9-2B686ADBE7A7}|ViewModel\\ViewModel.csproj|C:\\Users\\Rosa Maria\\Downloads\\DOCUMENTO NEW TALENT\\Curso y capacitacion c sharp\\PracticaWPF1\\PraticaWPF\\ViewModel\\MainViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E14AB974-08E9-46A8-B0E9-2B686ADBE7A7}|ViewModel\\ViewModel.csproj|solutionrelative:ViewModel\\MainViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9655C506-0827-4706-8655-3C45E3D5CE5D}|View\\View.csproj|c:\\users\\rosa maria\\downloads\\documento new talent\\curso y capacitacion c sharp\\praticawpf\\view\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9655C506-0827-4706-8655-3C45E3D5CE5D}|View\\View.csproj|solutionrelative:view\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9655C506-0827-4706-8655-3C45E3D5CE5D}|View\\View.csproj|C:\\Users\\Rosa Maria\\Downloads\\DOCUMENTO NEW TALENT\\Curso y capacitacion c sharp\\PracticaWPF1\\PraticaWPF\\View\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9655C506-0827-4706-8655-3C45E3D5CE5D}|View\\View.csproj|solutionrelative:View\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9655C506-0827-4706-8655-3C45E3D5CE5D}|View\\View.csproj|c:\\users\\rosa maria\\downloads\\documento new talent\\curso y capacitacion c sharp\\praticawpf\\view\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{9655C506-0827-4706-8655-3C45E3D5CE5D}|View\\View.csproj|solutionrelative:view\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{9655C506-0827-4706-8655-3C45E3D5CE5D}|View\\View.csproj|C:\\Users\\Rosa Maria\\Downloads\\DOCUMENTO NEW TALENT\\Curso y capacitacion c sharp\\PracticaWPF1\\PraticaWPF\\View\\App.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9655C506-0827-4706-8655-3C45E3D5CE5D}|View\\View.csproj|solutionrelative:View\\App.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E5105C1-0EBE-4F82-AFA2-5383775F6756}|Model\\Model.csproj|c:\\users\\rosa maria\\downloads\\documento new talent\\curso y capacitacion c sharp\\praticawpf\\model\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E5105C1-0EBE-4F82-AFA2-5383775F6756}|Model\\Model.csproj|solutionrelative:model\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7E5105C1-0EBE-4F82-AFA2-5383775F6756}|Model\\Model.csproj|C:\\Users\\Rosa Maria\\Downloads\\DOCUMENTO NEW TALENT\\Curso y capacitacion c sharp\\PracticaWPF1\\PraticaWPF\\Model\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E5105C1-0EBE-4F82-AFA2-5383775F6756}|Model\\Model.csproj|solutionrelative:Model\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,9 +36,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\Rosa Maria\\Downloads\\DOCUMENTO NEW TALENT\\Curso y capacitacion c sharp\\PraticaWPF\\View\\App.xaml",
+              "DocumentMoniker": "C:\\Users\\Rosa Maria\\Downloads\\DOCUMENTO NEW TALENT\\Curso y capacitacion c sharp\\PracticaWPF1\\PraticaWPF\\View\\App.xaml",
               "RelativeDocumentMoniker": "View\\App.xaml",
-              "ToolTip": "C:\\Users\\Rosa Maria\\Downloads\\DOCUMENTO NEW TALENT\\Curso y capacitacion c sharp\\PraticaWPF\\View\\App.xaml",
+              "ToolTip": "C:\\Users\\Rosa Maria\\Downloads\\DOCUMENTO NEW TALENT\\Curso y capacitacion c sharp\\PracticaWPF1\\PraticaWPF\\View\\App.xaml",
               "RelativeToolTip": "View\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-02-27T18:05:18.189Z",
@@ -48,10 +48,10 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Rosa Maria\\Downloads\\DOCUMENTO NEW TALENT\\Curso y capacitacion c sharp\\PraticaWPF\\View\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Rosa Maria\\Downloads\\DOCUMENTO NEW TALENT\\Curso y capacitacion c sharp\\PracticaWPF1\\PraticaWPF\\View\\MainWindow.xaml",
               "RelativeDocumentMoniker": "View\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\Rosa Maria\\Downloads\\DOCUMENTO NEW TALENT\\Curso y capacitacion c sharp\\PraticaWPF\\View\\MainWindow.xaml",
-              "RelativeToolTip": "View\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Rosa Maria\\Downloads\\DOCUMENTO NEW TALENT\\Curso y capacitacion c sharp\\PracticaWPF1\\PraticaWPF\\View\\MainWindow.xaml*",
+              "RelativeToolTip": "View\\MainWindow.xaml*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-02-27T15:53:14.495Z",
               "EditorCaption": ""
@@ -60,9 +60,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Rosa Maria\\Downloads\\DOCUMENTO NEW TALENT\\Curso y capacitacion c sharp\\PraticaWPF\\View\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Rosa Maria\\Downloads\\DOCUMENTO NEW TALENT\\Curso y capacitacion c sharp\\PracticaWPF1\\PraticaWPF\\View\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "View\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Rosa Maria\\Downloads\\DOCUMENTO NEW TALENT\\Curso y capacitacion c sharp\\PraticaWPF\\View\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Rosa Maria\\Downloads\\DOCUMENTO NEW TALENT\\Curso y capacitacion c sharp\\PracticaWPF1\\PraticaWPF\\View\\MainWindow.xaml.cs",
               "RelativeToolTip": "View\\MainWindow.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -73,11 +73,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Rosa Maria\\Downloads\\DOCUMENTO NEW TALENT\\Curso y capacitacion c sharp\\PraticaWPF\\ViewModel\\MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Rosa Maria\\Downloads\\DOCUMENTO NEW TALENT\\Curso y capacitacion c sharp\\PracticaWPF1\\PraticaWPF\\ViewModel\\MainViewModel.cs",
               "RelativeDocumentMoniker": "ViewModel\\MainViewModel.cs",
-              "ToolTip": "C:\\Users\\Rosa Maria\\Downloads\\DOCUMENTO NEW TALENT\\Curso y capacitacion c sharp\\PraticaWPF\\ViewModel\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\Rosa Maria\\Downloads\\DOCUMENTO NEW TALENT\\Curso y capacitacion c sharp\\PracticaWPF1\\PraticaWPF\\ViewModel\\MainViewModel.cs",
               "RelativeToolTip": "ViewModel\\MainViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEsAAABHAAAA",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAcwDIAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-27T15:51:27.258Z",
               "EditorCaption": ""
@@ -86,14 +86,13 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\Rosa Maria\\Downloads\\DOCUMENTO NEW TALENT\\Curso y capacitacion c sharp\\PraticaWPF\\Model\\Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Rosa Maria\\Downloads\\DOCUMENTO NEW TALENT\\Curso y capacitacion c sharp\\PracticaWPF1\\PraticaWPF\\Model\\Class1.cs",
               "RelativeDocumentMoniker": "Model\\Class1.cs",
-              "ToolTip": "C:\\Users\\Rosa Maria\\Downloads\\DOCUMENTO NEW TALENT\\Curso y capacitacion c sharp\\PraticaWPF\\Model\\Class1.cs",
+              "ToolTip": "C:\\Users\\Rosa Maria\\Downloads\\DOCUMENTO NEW TALENT\\Curso y capacitacion c sharp\\PracticaWPF1\\PraticaWPF\\Model\\Class1.cs",
               "RelativeToolTip": "Model\\Class1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-27T15:50:39.301Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-27T15:50:39.301Z"
             }
           ]
         }

@@ -17,7 +17,9 @@ namespace ViewModel
         private int _numero2;
         private int _resultado;
         private ICommand sumarCommand; // Esto significa que puedes enlazar esta propiedad a un control de la interfaz de usuario en XAML y ejecutar una acción cuando se active ese control.
-
+        private ICommand restarCommand; 
+        private ICommand dividirCommand; 
+        private ICommand multiplicarCommand; 
 
 
         public int Numero1
@@ -75,19 +77,66 @@ namespace ViewModel
              * Aquí, estamos utilizando una expresión lambda () => true, que siempre devuelve true. 
              * Esto significa que el comando siempre puede ejecutarse.*/
             }
-             public void Sumar() {
-                Resultado = Numero1 + Numero2; //punto de interrupcion para saber si hay un dato 
-                    }
 
-            public MainViewModel() // inicializa las propiedades.
+        public ICommand RestaCommand
+        { 
+            get
+            {
+                if (restarCommand == null) 
+                {
+                    restarCommand = new DelegateCommand(Resta, () => true); 
+                } 
+                return restarCommand;
+            }
+        }
+        public ICommand MultiplicarCommand
+        {
+            get
+            {
+                if (multiplicarCommand == null)
+                {
+                    multiplicarCommand = new DelegateCommand(Multiplicar, () => true);
+                }
+                return multiplicarCommand;
+            }
+        }
+        public ICommand DividirCommand
+        {
+            get
+            {
+                if (dividirCommand == null)
+                {
+                    dividirCommand = new DelegateCommand(Dividir, () => true);
+                }
+                return dividirCommand;
+            }
+        }
+        public void Sumar() {
+            Resultado = Numero1 + Numero2; //punto de interrupcion para saber si hay un dato 
+        }
+        public void Resta()
+        {
+            Resultado = Numero1 - Numero2; 
+
+        }
+        public void Multiplicar()
+        {
+            Resultado = Numero1 * Numero2;
+        }
+        public void Dividir()
+        {
+            Resultado = Numero1 / Numero2;
+        }
+
+
+
+
+        public MainViewModel() // inicializa las propiedades.
             {
                // Numero1 = 200;
                // Numero2 = 400;
                // Resultado = 600;
             }
-
-
-
             /*
              new DelegateCommand(...): Estamos creando una nueva instancia de la clase DelegateCommand.
             Esta clase implementa la interfaz ICommand y se utiliza para definir 
