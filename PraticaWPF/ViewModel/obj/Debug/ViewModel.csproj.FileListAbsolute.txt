@@ -1,0 +1,11 @@
+C:\Users\Rosa Maria\Downloads\DOCUMENTO NEW TALENT\Curso y capacitacion c sharp\PraticaWPF\ViewModel\bin\Debug\ViewModel.dll
+C:\Users\Rosa Maria\Downloads\DOCUMENTO NEW TALENT\Curso y capacitacion c sharp\PraticaWPF\ViewModel\bin\Debug\ViewModel.pdb
+C:\Users\Rosa Maria\Downloads\DOCUMENTO NEW TALENT\Curso y capacitacion c sharp\PraticaWPF\ViewModel\bin\Debug\Microsoft.Practices.Prism.dll
+C:\Users\Rosa Maria\Downloads\DOCUMENTO NEW TALENT\Curso y capacitacion c sharp\PraticaWPF\ViewModel\bin\Debug\Microsoft.Practices.Prism.Interactivity.dll
+C:\Users\Rosa Maria\Downloads\DOCUMENTO NEW TALENT\Curso y capacitacion c sharp\PraticaWPF\ViewModel\bin\Debug\Model.dll
+C:\Users\Rosa Maria\Downloads\DOCUMENTO NEW TALENT\Curso y capacitacion c sharp\PraticaWPF\ViewModel\bin\Debug\Model.pdb
+C:\Users\Rosa Maria\Downloads\DOCUMENTO NEW TALENT\Curso y capacitacion c sharp\PraticaWPF\ViewModel\obj\Debug\ViewModel.csproj.AssemblyReference.cache
+C:\Users\Rosa Maria\Downloads\DOCUMENTO NEW TALENT\Curso y capacitacion c sharp\PraticaWPF\ViewModel\obj\Debug\ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\Rosa Maria\Downloads\DOCUMENTO NEW TALENT\Curso y capacitacion c sharp\PraticaWPF\ViewModel\obj\Debug\ViewModel.csproj.Up2Date
+C:\Users\Rosa Maria\Downloads\DOCUMENTO NEW TALENT\Curso y capacitacion c sharp\PraticaWPF\ViewModel\obj\Debug\ViewModel.dll
+C:\Users\Rosa Maria\Downloads\DOCUMENTO NEW TALENT\Curso y capacitacion c sharp\PraticaWPF\ViewModel\obj\Debug\ViewModel.pdb
